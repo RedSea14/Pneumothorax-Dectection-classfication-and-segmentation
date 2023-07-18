@@ -1,0 +1,3 @@
+https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
+
+https://www.kaggle.com/datasets/iafoss/siimacr-pneumothorax-segmentation-data-256
